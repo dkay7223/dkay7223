@@ -287,6 +287,11 @@ Know about my experiences
     alt="dkay7223"
   />
 </p>
+<div align="center">
+
+  <img align="center" width="500" style="margin-left: 500;" src="https://cdn.dribbble.com/users/1129235/screenshots/11119956/media/0ed2f1fafc01796836f58027975ef866.gif" alt="">
+
+</div>
 
 <p>
   <img
