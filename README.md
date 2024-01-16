@@ -1,16 +1,17 @@
-<div style="width: 100%; height: 0; padding-bottom: 56%; position: relative">
- <img src="https://cdn.dribbble.com/users/1129235/screenshots/11119956/media/0ed2f1fafc01796836f58027975ef866.gif" width="100%" height="100%" style="width: 100%; height: 100%;" frameborder="0" class="giphy-embed" allowfullscreen />
+<div align="center">
 
-</div><h1 align="center">Hi 👋, I'm Daniyal</h1>
+  <img align="center" width="500" style="margin-left: 500;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="">
+
+</div>
+<h1 align="center">Hi 👋, I'm Daniyal</h1>
 <h3 align="center">A passionate software engineering student from Pakistan</h3>
-
-<p align="left">
+<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
       src="https://github-profile-trophy.vercel.app/?username=dkay7223"
       alt="dkay7223"
   /></a>
-</p>
+</div>
 
 - 🔭 I’m currently working on [AWS
 fundamentals](https://www.coursera.org/learn/aws-cloud-technical-essentials/home/week/1)
