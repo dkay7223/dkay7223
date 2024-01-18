@@ -15,15 +15,15 @@
 
 - 🔭 I’m currently working on [AWS
 fundamentals](https://www.coursera.org/learn/aws-cloud-technical-essentials/home/week/1)
-- 🌱 I’m currently learning **Cloud computing and DevOps** - 👯 I’m looking to
-collaborate on **MERN Stack projects** - 🤝 I’m looking for help with **DevOps**
-- 📫 How to reach me [dkay7223@gmail.com](dkay7223@gmail.com) - 👨‍💻 All of my
-projects are available at
-[https://github.com/dkay7223?tab=repositories](https://github.com/dkay7223?tab=repositories)
-- 💬 Ask me about **Requirements, Design(Modelling, Diagramming), Coding(Java,
-python and MERN), Testing.** - 📫 How to reach me **i201847@nu.edu.pk** - 📄
-Know about my experiences
-[https://www.linkedin.com/in/daniyal-khan-6261b0254/](https://www.linkedin.com/in/daniyal-khan-6261b0254/)
+- 🌱 I’m currently learning **Cloud computing and DevOps**
+- 👯 I’m looking to
+collaborate on **MERN Stack projects**
+- 🤝 I’m looking for help with **DevOps**
+- 📫 How to reach me [dkay7223@gmail.com](dkay7223@gmail.com)
+- 👨‍💻 All of my projects are available at [https://github.com/dkay7223?tab=repositories](https://github.com/dkay7223?tab=repositories)
+- 💬 Ask me about **Requirements, Design(Modelling, Diagramming), Coding(Java, python and MERN), Testing.**
+- 📫 How to reach me **i201847@nu.edu.pk**
+- 📄 Know about my experiences [https://www.linkedin.com/in/daniyal-khan-6261b0254/](https://www.linkedin.com/in/daniyal-khan-6261b0254/)
 - ⚡ Fact about me **I am very eager to learn**
 
 <h3 align="left">Connect with me:</h3>
