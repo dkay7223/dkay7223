@@ -19,8 +19,8 @@ fundamentals](https://www.coursera.org/learn/aws-cloud-technical-essentials/home
 - 👯 I’m looking to
 collaborate on **MERN Stack projects**
 - 🤝 I’m looking for help with **DevOps**
-- 📫 Primary Email <a href='mailto:i201847@nu.edu.pk'>i201847@nu.edu.pk</a>
-- 📫 Secondary Email <a href='mailto:dkay7223@gmail.com'>dkay7223@gmail.com</a>
+- 📫 Primary Email <a href='mailto:i201847@nu.edu.pk' target="__blank">i201847@nu.edu.pk</a>
+- 📫 Secondary Email <a href='mailto:dkay7223@gmail.com' target="__blank">dkay7223@gmail.com</a>
 - 👨‍💻 All of my projects are available at [https://github.com/dkay7223?tab=repositories](https://github.com/dkay7223?tab=repositories)
 - 💬 Ask me about **Requirements, Design(Modelling, Diagramming), Coding(Java, python and MERN), Testing.**
 - 📄 Know about my experiences [https://www.linkedin.com/in/daniyal-khan-6261b0254/](https://www.linkedin.com/in/daniyal-khan-6261b0254/)
