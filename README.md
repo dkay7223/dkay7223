@@ -1,7 +1,11 @@
 <div align="center">
-
-  <img align="center" width="500" style="margin-left: 500;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="">
-
+  <img
+    align="center"
+    width="500"
+    style="margin-left: 500"
+    src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+    alt=""
+  />
 </div>
 <h1 align="center">Hi 👋, I'm Daniyal</h1>
 <h3 align="center">A passionate software engineering student from Pakistan</h3>
@@ -15,25 +19,28 @@
 
 - 🔭 I’m currently working on [AWS
 fundamentals](https://www.coursera.org/learn/aws-cloud-technical-essentials/home/week/1)
-- 🌱 I’m currently learning **Cloud computing and DevOps**
-- 👯 I’m looking to
-collaborate on **MERN Stack projects**
-- 🤝 I’m looking for help with **DevOps**
-- 📫 Primary Email <a href='mailto:i201847@nu.edu.pk' target="blank">i201847@nu.edu.pk</a>
-- 📫 Secondary Email <a href='mailto:dkay7223@gmail.com' target="blank">dkay7223@gmail.com</a>
-- 👨‍💻 All of my projects are available at [https://github.com/dkay7223?tab=repositories](https://github.com/dkay7223?tab=repositories)
-- 💬 Ask me about **Requirements, Design(Modelling, Diagramming), Coding(Java, python and MERN), Testing.**
-- 📄 Know about my experiences [https://www.linkedin.com/in/daniyal-khan-6261b0254/](https://www.linkedin.com/in/daniyal-khan-6261b0254/)
+- 🌱 I’m currently learning **Cloud computing and DevOps** - 👯 I’m looking to
+collaborate on **MERN Stack projects** - 🤝 I’m looking for help with **DevOps**
+- 📫 Primary Email
+<a href="mailto:i201847@nu.edu.pk" target="blank">i201847@nu.edu.pk</a> - 📫
+Secondary Email
+<a href="mailto:dkay7223@gmail.com" target="blank">dkay7223@gmail.com</a>
+- 👨‍💻 All of my projects are available at
+[https://github.com/dkay7223?tab=repositories](https://github.com/dkay7223?tab=repositories)
+- 💬 Ask me about **Requirements, Design(Modelling, Diagramming), Coding(Java,
+python and MERN), Testing.** - 📄 Know about my experiences
+[https://www.linkedin.com/in/daniyal-khan-6261b0254/](https://www.linkedin.com/in/daniyal-khan-6261b0254/)
 - ⚡ Fact about me **I am very eager to learn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a
-    href="https://www.linkedin.com/in/daniyal-khan-6261b0254"
-    target="blank"
+  <a href="https://www.linkedin.com/in/daniyal-khan-6261b0254" target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      height="30"
+      width="40"
+  /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -284,9 +291,13 @@ collaborate on **MERN Stack projects**
   />
 </p>
 <div align="center">
-
-  <img align="center" width="500" style="margin-left: 500;" src="https://cdn.dribbble.com/users/1129235/screenshots/11119956/media/0ed2f1fafc01796836f58027975ef866.gif" alt="">
-
+  <img
+    align="center"
+    width="500"
+    style="margin-left: 500"
+    src="https://cdn.dribbble.com/users/1129235/screenshots/11119956/media/0ed2f1fafc01796836f58027975ef866.gif"
+    alt=""
+  />
 </div>
 
 <p>
@@ -296,3 +307,111 @@ collaborate on **MERN Stack projects**
     alt="dkay7223"
   />
 </p>
+<div>
+  <h2>AI based projects (including NLP, ML etc.):</h2>
+  <ol>
+    <li>-MinMax-with-Alpha-beta-pruning</li>
+    <li>Gamebot-python</li>
+    <li>Genetic-Algorithms-and-CSPs</li>
+    <li>OpenAI_ChatGPT_Clone</li>
+    <li>Search-algorithms-with-hueristics</li>
+    <li>Sentiment_analyzer_model</li>
+    <li>Uber-demand-and-supply-gap-prediction-system</li>
+    <li>Web-scraping-for-NLP</li>
+  </ol>
+
+  <h2>
+    Computer Networks based Projects (Cisco packet tracer designs and
+    implementations, Network designs):
+  </h2>
+  <ol>
+    <li>Communication-through-wired-media</li>
+    <li>configuring-DHCP-on-Windows-server</li>
+    <li>Implementation-of-Network-Design-using-cisco-packet-tracer</li>
+    <li>Network-Configuration-on-cisco-packet-tracer</li>
+    <li>Network-Design</li>
+    <li>Grading-system-program-design using TCP/IP and forks()</li>
+  </ol>
+
+  <h2>Web based Projects (Frontend, backend, MERN Stack etc.):</h2>
+  <ol>
+    <li>AmazonDataScrapperAPI</li>
+    <li>bookstore-backend</li>
+    <li>bookstore-frontend</li>
+    <li>CRM-client-API</li>
+    <li>CRM-frontend</li>
+    <li>Mern-Stack-HotelHub</li>
+    <li>Hotel_Booking</li>
+    <li>LMS_AWS</li>
+    <li>MERNDeployment</li>
+    <li>Meta-Backend</li>
+    <li>react-fitness-app</li>
+    <li>react-portfolio</li>
+    <li>SimpleEmailAuthenticationViaSendgrid</li>
+    <li>UserManagement</li>
+  </ol>
+
+  <h2>Cloud based Projects (AWS, Docker, Heroku, Github actions etc.):</h2>
+  <ol>
+    <li>Full-stack (MERN) Book Store</li>
+    <li>Full-stack CRM System (token-based)</li>
+    <li>Hotel_Booking</li>
+    <li>LMS_AWS Full Stack</li>
+    <li>MERNDeployment (Basic CRUD)</li>
+  </ol>
+
+  <h2>
+    JAVA based (DSA, desktop apps, designing in JavaFX, system design etc):
+  </h2>
+  <ol>
+    <li>ArrayList_DSA_JAVA</li>
+    <li>Flight-Reservation-System</li>
+    <li>Library_Management_System_JAVA</li>
+    <li>simple_Accounts_Management_Project_JAVA</li>
+    <li>simple_Food_Delivery_Project_JAVA</li>
+    <li>simple_Restaurant_Management_System_JAVA</li>
+    <li>small_Banking_Management_System_JAVA</li>
+    <li>Software-Design-and-Architecture-Labs</li>
+    <li>TREE_DSA_JAVA</li>
+  </ol>
+
+  <h2>Business process Engineering and Process mining:</h2>
+  <ol>
+    <li>BPMN-Modelling</li>
+    <li>Coding-a-BPMN-Model</li>
+    <li>Process-Discovery-using-Alpha-Algorithm-on-Event-Log</li>
+    <li>Provider-schedule-transformation</li>
+  </ol>
+
+  <h2>Databases (SQL, NoSQL):</h2>
+  <ol>
+    <li>Database-Management-and-Programming-with-NoSQL</li>
+    <li>bookstore-backend</li>
+    <li>bookstore-frontend</li>
+    <li>CRM-client-API</li>
+    <li>CRM-frontend</li>
+    <li>Hotel_Booking</li>
+    <li>LMS_AWS</li>
+    <li>MERNDeployment</li>
+    <li>UserManagement</li>
+  </ol>
+
+  <h2>Human and Computer Interactions</h2>
+  <ol>
+    <li>Human_Computer_Interactions</li>
+    <li>Starting-out-with-Software-Quality-Engineering</li>
+  </ol>
+
+  <h2>Security:</h2>
+  <ol>
+    <li>Implementing-Data-Integrity-and-Security-</li>
+    <li>Principles-of-Secure-Design</li>
+    <li>Web-security</li>
+  </ol>
+
+  <h2>Requirements Engineering and Design:</h2>
+  <ol>
+    <li>NASA_ARM_Tool-findings</li>
+    <li>Software_Requirement_Engineering_Payroll_Management_System</li>
+  </ol>
+</div>
